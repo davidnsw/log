@@ -1,0 +1,2 @@
+# log
+logseq markdown
